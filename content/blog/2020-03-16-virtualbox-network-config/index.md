@@ -1,7 +1,7 @@
 ---
 title:  VirtualBox的各种网络模式要如何选择？【转载】
 date: "2020-03-16T23:20:03.284Z"
-description: "NAT模式 Host-only"
+description: "virtualbox的网络模式，NAT模式 Host-only"
 ---
 
 [原文链接](https://mp.weixin.qq.com/s/Lwar7ac7PxuqHdsmRMqg6Q)
